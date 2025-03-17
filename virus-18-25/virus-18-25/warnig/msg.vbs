@@ -1,0 +1,1 @@
+MsgBox "alors on fait fait baiser le fion sale pute en + pare SB6 tu et vrement une salop ", vbOKOnly + vbCritical, "FUCKED BY SB6" 
